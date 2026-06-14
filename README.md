@@ -1,5 +1,13 @@
 # EcoTrack AI - Carbon Footprint Tracker & AI Sustainability Coach
 
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-Database-emerald?style=for-the-badge&logo=supabase)](https://supabase.com/)
+[![Gemini AI](https://img.shields.io/badge/Gemini_AI-Google-purple?style=for-the-badge&logo=google-gemini)](https://aistudio.google.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)](https://vercel.com/)
+[![License-MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Test-Coverage](https://img.shields.io/badge/Test_Coverage-86.98%25-brightgreen?style=for-the-badge)](https://jestjs.io/)
+
 **EcoTrack AI** is a production-grade, premium carbon footprint awareness platform built with the Next.js 15 App Router, TypeScript, and Tailwind CSS. Inspired by the sleek, dark-themed design aesthetics of Stripe, Vercel, and Linear, EcoTrack AI helps users calculate, monitor, and reduce their carbon footprint through gamification, interactive AI coaching, analytics, and community engagement.
 
 ---
@@ -93,7 +101,7 @@ The platform features Jest unit and integration tests. The test runner uses Next
     ```bash
     npm run test:coverage
     ```
-    *Our tests cover the core carbon calculation algorithms, achieving **86%+ Statement Coverage**.*
+    *Our tests cover the core carbon calculation algorithms, achieving **86.98% Statement Coverage**.*
 
 ---
 
@@ -123,3 +131,50 @@ ecotrack-ai/
 *   **Keyboard Navigation**: Tab indexes on all form inputs and action buttons.
 *   **Aria Roles**: Color schemes configured with Radix UI accessibility compliance.
 *   **Screen Reader Support**: Structured form labels mapping input IDs directly.
+
+---
+
+## 👨‍💻 Author
+
+**Pranil Belge**
+
+*   Final Year Computer Engineering Student
+*   Developer of EcoTrack AI
+*   Passionate about Software Development, AI, Cloud Technologies, and Sustainability Solutions
+
+---
+
+## 🌟 Project Highlights
+
+*   Built using Next.js 15 and TypeScript
+*   AI-powered sustainability recommendations using Gemini
+*   Secure authentication and database integration with Supabase
+*   86.98% automated test coverage
+*   Accessibility-focused design
+*   Production-ready deployment on Vercel
+
+---
+
+## 📄 License
+
+MIT License
+
+Copyright (c) 2026 Pranil Belge
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
