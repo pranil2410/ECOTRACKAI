@@ -8,6 +8,8 @@
 [![License-MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Test-Coverage](https://img.shields.io/badge/Test_Coverage-86.98%25-brightgreen?style=for-the-badge)](https://jestjs.io/)
 
+### 🔗 Live Demo Link: [https://ecotrack-ai-ten.vercel.app](https://ecotrack-ai-ten.vercel.app)
+
 **EcoTrack AI** is a production-grade, premium carbon footprint awareness platform built with the Next.js 15 App Router, TypeScript, and Tailwind CSS. Inspired by the sleek, dark-themed design aesthetics of Stripe, Vercel, and Linear, EcoTrack AI helps users calculate, monitor, and reduce their carbon footprint through gamification, interactive AI coaching, analytics, and community engagement.
 
 ---
